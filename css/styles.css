@@ -172,7 +172,7 @@ nav.navbar {
 .review-container{
 	padding: 10px 15px;
 	background-color: rgba(20,20,20,0.6);
-	border-radius: 4px;
+	border-radius: 5px;
 	margin-top: 250px;
 }
 .review-container h1{
