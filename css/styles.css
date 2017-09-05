@@ -154,8 +154,8 @@ nav.navbar {
 	color: rgba(149,147,147,0.2);
 }
 
-.story-year p{
-	font-size: 2em;
+.paragraph{
+	font-size: 1.2em;
 }
 /*Our Story ends*/
 /*fresno bee quote starts*/
@@ -172,7 +172,7 @@ nav.navbar {
 .review-container{
 	padding: 10px 15px;
 	background-color: rgba(20,20,20,0.6);
-	border-radius: 4px;
+	border-radius: 5px;
 	margin-top: 250px;
 }
 .review-container h1{
